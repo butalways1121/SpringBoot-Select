@@ -1,11 +1,6 @@
 # SpringBoot-Select
 SpringBoot实现的查询数据库操作
----
-title: Spring Boot创建接口实现数据库的查询操作
-date: 2019-08-06 08:26:05
-tags:
-	- Spring Boot
----
+（点击这里（https://butalways1121.github.io/2019/08/06/Spring-Boot%E5%88%9B%E5%BB%BA%E6%8E%A5%E5%8F%A3%E5%AE%9E%E7%8E%B0%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E6%9F%A5%E8%AF%A2%E6%93%8D%E4%BD%9C/）跳转到页面查看）
 ## 工具及环境
 eclipse j2ee 2019、apache-maven-3.6.1、jdk1.8、Navicat for mysql 12、postman。
 ## 配置Maven环境
